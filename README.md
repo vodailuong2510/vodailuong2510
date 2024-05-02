@@ -9,24 +9,24 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
 ## 📫Several projects that I did: 
 <a href="https://github.com/vodailuong2510/Traffic-Sign-Recognition-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Traffic-Sign-Recognition-System&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Traffic-Sign-Recognition-System&theme=gruvbox" />
 </a>    
 
 <a href="https://github.com/vodailuong2510/License-Plate-Recognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=License-Plate-Recognition&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=License-Plate-Recognition&theme=radical" />
 </a>
 <a href="https://github.com/vodailuong2510/Home-Credit-Credit-Risk-Model">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Home-Credit-Credit-Risk-Model&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Home-Credit-Credit-Risk-Model&theme=dark" />
 </a>    
 <a href="https://github.com/vodailuong2510/Machine-Learning-From-Scratch">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Machine-Learning-From-Scratch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Machine-Learning-From-Scratch&theme=merko" />
 </a>    
 <a href="https://github.com/vodailuong2510/Cat-vs-Dog-using-Transfer-Learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Cat-vs-Dog-using-Transfer-Learning&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Cat-vs-Dog-using-Transfer-Learning&theme=radical" />
 </a>
 
 <a href="https://github.com/vodailuong2510/Cifar10-tensorflow">
