@@ -2,7 +2,7 @@
 My name's Vo Dai Luong. I'm a student studying Computer Science at the University of Information Technology and I'm interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vodailuong2510/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vodailuong2510) [![Facebook](https://github.com/vodailuong2510/vodailuong2510/blob/main/Facebook.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vodailuong2510/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vodailuong2510) [![Facebook](https://github.com/vodailuong2510/vodailuong2510/blob/main/Facebook.png) Facebook]([https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw](https://www.facebook.com/VoDailuong2510))
 
 
 
