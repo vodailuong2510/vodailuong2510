@@ -28,32 +28,32 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
 
 <a href="https://github.com/vodailuong2510/Cifar10-tensorflow">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=&repo=Cifar10-tensorflow&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Cifar10-tensorflow&theme=onedark" />
 </a>    
 <a href="https://github.com/vodailuong2510/Handwriting-Recognition-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=&repo=Handwriting-Recognition-System&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Handwriting-Recognition-System&theme=cobalt" />
 </a>
 
 <a href="https://github.com/vodailuong2510/Fashion_mnist">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=&repo=Fashion_mnist&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Fashion_mnist&theme=synthwave" />
 </a>    
 <a href="https://github.com/vodailuong2510/Horse-and-Human">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=&repo=orse-and-Human=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=orse-and-Human=highcontrast" />
 </a>
 
 <a href="https://github.com/vodailuong2510/Generating-Word">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=&repo=Generating-Word&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Generating-Word&theme=dracula" />
 </a>    
 <a href="https://github.com/vodailuong2510/Sentiment-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=&repo=Sentiment-Analysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Sentiment-Analysis&theme=radical" />
 </a>
 
 <a href="https://github.com/vodailuong2510/Home-Credit-Credit-Risk-Model">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=&repo=Home-Credit-Credit-Risk-Model&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Home-Credit-Credit-Risk-Model&theme=merko" />
 </a>    
