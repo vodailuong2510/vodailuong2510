@@ -6,7 +6,9 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
 
 
 
-## 📫Several projects that I did: 
+## 📫Several projects that I did:
+**Machine Learning, Deep Learning**:
+
 <a href="https://github.com/vodailuong2510/Traffic-Sign-Recognition-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Traffic-Sign-Recognition-System&theme=gruvbox" />
@@ -54,4 +56,10 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
 <a href="https://github.com/vodailuong2510/Sentiment-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Sentiment-Analysis&theme=dracula" />
+</a>
+
+**Software, Web**:
+<a href="https://github.com/vodailuong2510/National-Football-League-Management-System">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=National-Football-League-Management-System&theme=dracula" />
 </a>
