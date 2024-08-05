@@ -20,6 +20,10 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Traffic-Sign-Recognition-System&theme=gruvbox" />
 </a>    
+<a href="https://github.com/vodailuong2510/Motorcycle-Classifier">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Motorcycle-Classifier&theme=gruvbox" />
+</a>
 <a href="https://github.com/vodailuong2510/License-Plate-Recognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=License-Plate-Recognition&theme=radical" />
