@@ -17,7 +17,7 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
 ### Machine Learning, Deep Learning:
 <a href="https://github.com/vodailuong2510/Sign-Board-Detection-using-YOLOv8">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Sign-Board-Detection-using-YOLOv8&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Sign-Board-Detection-using-YOLOv8&theme=radical" />
 </a>    
 <a href="https://github.com/vodailuong2510/Traffic-Sign-Recognition-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
