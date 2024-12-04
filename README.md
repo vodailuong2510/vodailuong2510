@@ -27,6 +27,10 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Motorcycle-Classifier&theme=gruvbox" />
 </a>
+<a href="https://github.com/vodailuong2510/SpeedLimitSignsClassification">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=SpeedLimitSignsClassification&theme=merko" />
+</a>   
 <a href="https://github.com/vodailuong2510/Machine-Learning-From-Scratch">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Machine-Learning-From-Scratch&theme=merko" />
