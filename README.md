@@ -39,14 +39,14 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Color-Descriptors-and-Color-Classification&theme=merko" />
 </a>  
-<a href="https://github.com/vodailuong2510/Cat-vs-Dog-using-Transfer-Learning">
+<a href="https://github.com/vodailuong2510/Transfer-Learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Cat-vs-Dog-using-Transfer-Learning&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Transfer-Learning&theme=radical" />
 </a>
 
-<a href="https://github.com/vodailuong2510/Cifar10-tensorflow">
+<a href="https://github.com/vodailuong2510/Cifar10">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Cifar10-tensorflow&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Cifar10&theme=cobalt" />
 </a>    
 <a href="https://github.com/vodailuong2510/Handwriting-Recognition-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
