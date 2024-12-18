@@ -15,9 +15,9 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
 </a>
 
 ### Machine Learning, Deep Learning:
-<a href="https://github.com/vodailuong2510/Sign-Board-Detection-using-YOLOv8">
+<a href="https://github.com/vodailuong2510/SignBoard-Detection">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Sign-Board-Detection-using-YOLOv8&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=SignBoard-Detection&theme=radical" />
 </a>    
 <a href="https://github.com/vodailuong2510/Traffic-Sign-Recognition-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -60,10 +60,6 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
 <a href="https://github.com/vodailuong2510/Horse-and-Human">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Horse-and-Human&theme=synthwave" />
-</a>
-<a href="https://github.com/vodailuong2510/Color-Descriptors-and-Color-Classification">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Color-Descriptors-and-Color-Classification&theme=synthwave" />
 </a>
 <a href="https://github.com/vodailuong2510/Generating-Word">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
