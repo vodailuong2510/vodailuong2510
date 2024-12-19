@@ -15,6 +15,10 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
 </a>
 
 ### Machine Learning, Deep Learning:
+<a href="https://github.com/vodailuong2510/EducationRegulation-QA">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=EducationRegulation-QA&theme=radical" />
+</a>    
 <a href="https://github.com/vodailuong2510/SignBoard-Detection">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=SignBoard-Detection&theme=radical" />
