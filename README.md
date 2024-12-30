@@ -47,15 +47,6 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Color-Descriptors-and-Color-Classification&theme=merko" />
 </a>  
-<a href="https://github.com/vodailuong2510/Transfer-Learning">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Transfer-Learning&theme=radical" />
-</a>
-
-<a href="https://github.com/vodailuong2510/Cifar10">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Cifar10&theme=cobalt" />
-</a>    
 <a href="https://github.com/vodailuong2510/Handwriting-Recognition-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Handwriting-Recognition-System&theme=onedark" />
@@ -65,10 +56,7 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Fashion_mnist&theme=dracula" />
 </a>    
-<a href="https://github.com/vodailuong2510/Horse-and-Human">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Horse-and-Human&theme=synthwave" />
-</a>
+
 <a href="https://github.com/vodailuong2510/Generating-Word">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Generating-Word&theme=radical" />
