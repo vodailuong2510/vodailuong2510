@@ -55,8 +55,4 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Generating-Word&theme=radical" />
 </a>    
-<a href="https://github.com/vodailuong2510/Sentiment-Analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Sentiment-Analysis&theme=dracula" />
-</a>
 
