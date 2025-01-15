@@ -45,11 +45,11 @@ My name's Vo Dai Luong. I'm a student studying Computer Science at the Universit
 </a>    
 <a href="https://github.com/vodailuong2510/Color-Descriptors-and-Color-Classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Color-Descriptors-and-Color-Classification&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Color-Descriptors-and-Color-Classification&theme=onedark" />
 </a>  
 <a href="https://github.com/vodailuong2510/Handwriting-Recognition-System">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Handwriting-Recognition-System&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=Handwriting-Recognition-System&theme=merko" />
 </a>
 <a href="https://github.com/vodailuong2510/Generating-Word">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
