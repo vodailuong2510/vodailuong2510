@@ -1,5 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name's Vo Dai Luong. I'm a student studying Computer Science at the University of Information Technology and I'm interested in the following topics: Deep Learning in NLP and Computer Vision, Java Backend<br>
+My name's Vo Dai Luong. I'm an AI Engineer based in Ho Chi Minh City, Vietnam. I have a Bachelor's degree in Computer Science from the University of Information Technology – VNUHCM, where I specialized in Artificial Intelligence with a focus on Machine Learning.
+I have hands-on experience with a wide range of machine learning algorithms and strong proficiency in Python, along with frameworks such as TensorFlow, PyTorch, Keras, Scikit-learn, LlamaIndex, LangChain, Ultralytics, Unsloth, and the OpenAI API.
+My work spans various AI projects, particularly in advanced areas such as deep learning for computer vision and natural language processing.
 ## 📫 How to reach me: 
 
 [![Linkedin](https://github.com/vodailuong2510/vodailuong2510/blob/main/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vodailuong2510/) [![GitHub](https://github.com/vodailuong2510/vodailuong2510/blob/main/tskMh.png) GitHub](https://github.com/vodailuong2510) [![Facebook](https://github.com/vodailuong2510/vodailuong2510/blob/main/Facebook.png) Facebook](https://www.facebook.com/VoDailuong2510)
