@@ -23,6 +23,11 @@ My work spans various AI projects, particularly in advanced areas such as deep l
 </a>
 
 ### Machine Learning, Deep Learning:
+<a href="https://github.com/vodailuong2510/RAG-EduChatbot">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=RAG-EduChatbot&theme=radical" />
+</a>    
+
 <a href="https://github.com/vodailuong2510/EducationRegulation-QA">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vodailuong2510&repo=EducationRegulation-QA&theme=radical" />
